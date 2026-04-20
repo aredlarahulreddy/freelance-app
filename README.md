@@ -28,7 +28,7 @@ The app helps in:
 
 \## App Deployment URL
 
-https://your-app-name.streamlit.app
+https://freelance-app-v3hhtncdazyyo862mquecm.streamlit.app/
 
 
 
