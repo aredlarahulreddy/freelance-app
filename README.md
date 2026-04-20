@@ -92,13 +92,13 @@ cd freelance-capital-finder
 
 
 
-###Install dependencies using:
+Install dependencies using:
 
 uv sync
 
 
 
-###Run the app: 
+Run the app: 
 
 uv run streamlit run app.py
 
