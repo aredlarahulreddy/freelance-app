@@ -86,7 +86,7 @@ https://freelance-app-v3hhtncdazyyo862mquecm.streamlit.app/
 
 ```bash
 
-git clone https://github.com/aredlarahulreddy/freelance-capital-finder.git
+git clone https://github.com/aredlarahulreddy/freelance-app.git
 
 cd freelance-capital-finder
 
